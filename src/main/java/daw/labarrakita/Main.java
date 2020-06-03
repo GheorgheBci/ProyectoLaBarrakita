@@ -33,7 +33,7 @@ public class Main {
         configurable = new BotellaAceite(configurable);
         
         System.out.println("En la caja 5 has añadido los siguientes productos: " + configurable.getDescripcion());
-        System.out.println(configurable.precio());
+        System.out.println("El precio total es: " + configurable.precio());
         
     }
 }
