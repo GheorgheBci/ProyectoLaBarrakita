@@ -7,7 +7,7 @@ package daw.labarrakita;
 public abstract class Caja {
     String descripcion="";
     
-    public String geDescripcion(){
+    public String getDescripcion(){
         return descripcion;
     }
     
