@@ -14,7 +14,7 @@ public class BotellaAceite extends DecoratorCaja5 {
 
     @Override
     public String getDescripcion() {
-        return miCaja.getDescripcion() + "Botella de aceite";
+        return miCaja.getDescripcion() + " + Botella de aceite, ";
     }
 
     @Override

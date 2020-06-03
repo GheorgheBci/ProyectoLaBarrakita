@@ -14,7 +14,7 @@ public class PastaDientes extends DecoratorCaja5 {
 
     @Override
     public String getDescripcion() {
-        return miCaja.getDescripcion() + "Pasta de dientes";
+        return miCaja.getDescripcion() + " + Pasta de dientes, ";
     }
 
     @Override

@@ -14,7 +14,7 @@ public class CocaCola extends DecoratorCaja5{
     
     @Override
     public String getDescripcion() {
-         return miCaja.getDescripcion() + "Coca-Cola";
+         return miCaja.getDescripcion() + " + Coca-Cola, ";
     }
 
     @Override
